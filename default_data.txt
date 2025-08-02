@@ -1,0 +1,10 @@
+Customer ID: 1, Name: Alice
+  Savings Account - Account Number: A1001, Balance: $5000.00, Interest Rate: 2.50%
+---------------------------------------
+Customer ID: 2, Name: Bob
+  Checking Account - Account Number: B2001, Balance: $2500.00, Overdraft Limit: $500.00
+---------------------------------------
+Customer ID: 3, Name: Charlie
+  Savings Account - Account Number: C3001, Balance: $7500.00, Interest Rate: 3.00%
+  Checking Account - Account Number: C3002, Balance: $1500.00, Overdraft Limit: $300.00
+---------------------------------------

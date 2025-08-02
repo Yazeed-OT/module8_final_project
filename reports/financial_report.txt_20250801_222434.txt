@@ -1,0 +1,35 @@
+=== Financial Report ===
+Generated on: Fri Aug  1 22:24:34 2025
+Total Customers: 3
+
+Account Type        Account Number      Balance        Extra Info          
+---------------------------------------------------------------------------
+Customer ID: 3, Name: Charlie
+Savings              C3001              $6695.00       Interest: 3.00%
+  Transaction History:
+    - Fri Aug  1 22:24:13 2025 Withdrawal     $1000.00
+    - Fri Aug  1 22:24:28 2025 Interest Applied $195.00
+---------------------------------------
+Checking             C3002              $1500.00       Overdraft: $300.00
+  Transaction History:
+---------------------------------------
+Customer ID: 2, Name: Bob
+Checking             B2001              $3500.00       Overdraft: $500.00
+  Transaction History:
+    - Fri Aug  1 22:24:13 2025 Deposit        $1000.00
+---------------------------------------
+Customer ID: 1, Name: Alice
+Savings              A1001              $5125.00       Interest: 2.50%
+  Transaction History:
+    - Fri Aug  1 22:24:28 2025 Interest Applied $125.00
+---------------------------------------
+Checking            1                   $1000.00       Overdraft: $500.00
+  Transaction History:
+---------------------------------------
+
+Total Funds Across All Accounts: $17820.00
+
+===== Totals =====
+Total Savings: $11820.00
+Total Checking: $6000.00
+Grand Total:   $17820.00
